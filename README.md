@@ -1,1 +1,1 @@
-Iterations of apks for a POC which aims to find any workarounfs for version downgrade feature in android.
+Iterations of apks for a POC which aims to find any workarounds for version downgrade feature in android.
